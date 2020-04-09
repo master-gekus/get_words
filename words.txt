@@ -1,16 +1,3 @@
-хотеть - querer
-защищать - defender
-зажигать, включать (электроприбор) - encender
-понимать - entender
-терять - perder
-развешивать - tender
-возвращать - devolver
-болеть - doler
-заворачивать - envolver
-кусать - morder
-пахнуть - oler
-мочь - poder
-
 провожать, прощаться с кем-то, уволять с работы - despedir
 исправлять, проверять (домашнее задание) – corregir
 мерить, измерять - medir
@@ -27,3 +14,52 @@
 
 умирать - morir
 спать - dormir
+
+думать - pensar: yo pienso; tú piensas; él, ella, usted piensa; nosotros pensamos; vosotros pensáis; ellos, ellas, ustedes piensan.
+попасть (в цель), решить, разгадать - acertar: yo acierto; tú aciertas; él, ella, usted acierta; nosotros acertamos; vosotros acertáis; ellos, ellas, ustedes aciertan.
+пересечь - atravesar: yo atravieso; tú atraviesas; él, ella, usted atraviesa; nosotros atravesamos; vosotros atravesáis; ellos, ellas, ustedes atraviesan.
+греть, согревать - calentar: yo caliento; tú calientas; él, ella, usted calienta; nosotros calentamos; vosotros calentáis; ellos, ellas, ustedes calientan.
+начать, приступить - comenzar: yo comienzo; tú comienzas; él, ella, usted comienza; nosotros comenzamos; vosotros comenzáis; ellos, ellas, ustedes comienzan.
+пробудить, разбудить - despertar: yo despierto; tú despiertas; él, ella, usted despierta; nosotros departamos; vosotros despertáis; ellos, ellas, ustedes despiertan.
+проснуться - despertarse
+начать, приступить - empezar: yo empiezo; tú empiezas; él, ella, usted empieza; nosotros empezamos; vosotros empezáis; ellos, ellas, ustedes empiezan.
+запирать, закрывать - encerrar: yo encierro; tú encierras; él, ella, usted encierra; nosotros encerramos; vosotros encerráis; ellos, ellas, ustedes encierran.
+руководить - gobernar: yo gobierno; tú gobiernas; él, ella, usted gobierna; nosotros gobernamos; vosotros gobernáis; ellos, ellas, ustedes gobiernan.
+отрицать - negar: yo niego; tú niegas; él, ella, usted niega; nosotros negamos; vosotros negáis; ellos, ellas, ustedes niegan.
+отказаться - negarse
+посадить (на стул), усадить - sentar: yo siento; tú sientas; él, ella, usted sienta; nosotros sentamos; vosotros sentáis; ellos, ella, ustedes sientan.
+сесть (на стул) - sentarse
+
+считать, подсчитывать, вычислять - contar: yo cuento; tú cuentas; él, ella, usted cuenta; nosotros contamos; vosotros contáis; ellos, ellas, ustedes cuentan.
+согласиться - acordar: yo acuerdo; tú acuerdas; él, ella, usted acuerda; nosotros acordamos; vosotros acordáis; ellos, ellas, ustedes acuerdan.
+класть (в постель), укладывать (в постель) - acostar: yo acuesto; tú acuestas; él, ella, usted acuesta; nosotros acostamos; vosotros acostáis; ellos, ellas, ustedes acuestan.
+висеть, свисать - colgar: yo cuelgo; tú cuelgas; él, ella, usted cuelga; nosotros colgamos; vosotros colgáis; ellos, ellas, ustedes cuelgan.
+стоить (цена) - costar: yo cuesto; tú cuestas; él, ella, usted cuesta; nosotros costamos; vosotros costáis; ellos, ellas, ustedes cuestan.
+показывать - demostrar: yo demuestro; tú demuestras; él, ella, usted demuestra; nosotros demostramos; vosotros demostráis; ellos, ellas, ustedes demuestran.
+показывать - mostrar: yo muestro; tú muestras; él, ella, usted muestra; nosotros mostramos; vosotros mostráis; ellos, ellas, ustedes muestran.
+помнить - recordar: yo recuerdo; tú recuerdas; él, ella, usted recuerda; nosotros recordamos; vosotros recordáis; ellos, ellas, ustedes recuerdan.
+просить - rogar: yo ruego; tú ruegas; él, ella, usted ruega; nosotros rogamos; vosotros rogáis; ellos, ellas, ustedes ruegan.
+звучать - sonar: yo sueno; tú suenas; él, ella, usted suena; nosotros sonamos; vosotros sonáis; ellos, ellas, ustedes suenan.
+лететь - volar: yo vuelo; tú vuelas; él, ella, usted vuela; nosotros volamos; vosotros voláis; ellos, ellas, ustedes vuelan.
+
+поместить, поставить - poner
+есть - comer
+еда - la comida
+подарок - el regalo
+
+принимать - llevar
+
+хотеть - querer: Yo quiero; tú quieres; él, ella, usted quiere; nosotros queremos; vosotros queréis; ellos, ellas, ustedes quieren.
+защищать - defender: Yo defiendo; tú defiendes; él, ella, usted defiende; nosotros defendemos; vosotros defendéis; ellos, ellas, ustedes defienden.
+зажигать, включать (электроприбор) - Encender: Yo enciendo; tú enciendes; él, ella, usted enciende; nosotros encendemos; vosotros encendéis; ellos, ellas, ustedes encienden.
+понимать - entender: Yo entiendo; tú entiendes; él, ella, usted enciende; nosotros entendemos; vosotros entendéis; ellos, ellas, ustedes entienden.
+терять - perder: Yo pierdo; tú pierdes; él, ella, usted pierde; nosotros perdemos; vosotros perdéis; ellos, ellas, ustedes pierden.
+развешивать, натягивать, тянуть - tender: Yo tiendo; tú tiendes; él, ella, usted tiende; nosotros tendemos; vosotros tendéis; ellos, ellas, ustedes tienden.
+возвращаться - volver: Yo vuelvo; tú vuelves; él, ella, usted vuelve; nosotros volvemos; vosotros volvéis; ellos, ellas, ustedes vuelven.
+вереуть, возвращать - devolver: Yo devuelvo; tú devuelves; él, ella, usted devuelve; nosotros devolvemos; vosotros devolvéis; ellos, ellas, ustedes devuelven.
+болеть - doler: Yo duelo; tú dueles; él, ella, usted duele; nosotros dolemos; vosotros doléis; ellos, ellas, ustedes duelen.
+заворачивать - envolver: Yo envuelvo; tú envuelves; él, ella, usted envuelve; nosotros envolvemos; vosotros envolvéis; ellos, ellas, ustedes envuelven.
+кусать - morder: Yo muerdo; tú muerdes; él, ella, usted muerde; nosotros mordemos; vosotros mordéis; ellos, ellas, ustedes muerden.
+чувствовать запах - oler: Yo huelo; tú hueles; él, ella, ustedes huele; nosotros olemos; vosotros oléis; ellos, ellas, ustedes huelen;
+мочь - poder: Yo puedo; tú puedes; él, ella, ustedes puede; nosotros podemos; vosotros podéis; ellos, ellas, ustedes pueden.
+
