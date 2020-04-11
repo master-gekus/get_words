@@ -16,6 +16,39 @@ const ::std::regex seps1{"((\\s\\-)|(\\:\\s))"};
 const ::std::regex seps2{"\\,"};
 
 using list_type = ::std::vector<::std::string>;
+list_type split(const char *src, const ::std::regex& sep);
+
+class dic_entry {
+public:
+  explicit dic_entry(const list_type& list) noexcept :
+    first_{split(list[0].c_str(), seps2)},
+    second_{split(list[1].c_str(), seps2)},
+    rest_{list.begin() + 2, list.end()}
+  {
+  }
+  dic_entry(dic_entry&&) = default;
+
+public:
+  const list_type& first() const noexcept
+  {
+    return first_;
+  }
+
+  const list_type& second() const noexcept
+  {
+    return second_;
+  }
+
+  const list_type& rest() const noexcept
+  {
+    return rest_;
+  }
+
+private:
+  list_type first_;
+  list_type second_;
+  list_type rest_;
+};
 
 ::std::ostream& operator << (::std::ostream& o, const list_type& l) noexcept
 {
@@ -81,6 +114,9 @@ list_type split(const char *src, const ::std::regex& sep)
 void trim_tests() noexcept;
 void split_tests() noexcept;
 
+::std::vector<dic_entry> known;
+::std::vector<dic_entry> unknown;
+
 int main()
 {
 #ifdef _WIN32
@@ -105,10 +141,10 @@ int main()
     if ('#' == splitted[0][0]) {
       continue;
     }
-    bool known{false};
-    const ::std::string last{splitted[splitted.size() - 1]};
-    if ('+' == last[last.size() - 1]) {
-      known = true;
+    bool is_known{false};
+    const ::std::string last{splitted.back()};
+    if ('+' == last.back()) {
+      is_known = true;
       if ("+" == last) {
         if (3 > splitted.size()) {
           continue;
@@ -116,10 +152,34 @@ int main()
         splitted.pop_back();
       }
       else {
-        splitted[splitted.size() - 1] = trim(last.substr(0, last.size() - 1));
+        splitted.back() = trim(last.substr(0, last.size() - 1));
       }
     }
-    ::std::cout << ::std::boolalpha << known << ": " << splitted << ::std::endl;
+
+    if (is_known) {
+      known.push_back(dic_entry{splitted});
+    }
+    else {
+      unknown.push_back(dic_entry{splitted});
+    }
+  }
+
+  ::std::cout << "Found " << unknown.size() << " unknown entries:" << ::std::endl;
+  for (const auto& e : unknown) {
+    ::std::cout << e.first() << " ==> " << e.second();
+    if (!e.rest().empty()) {
+      ::std::cout << " (" << e.rest() << ")";
+    }
+    ::std::cout << ::std::endl;
+  }
+
+  ::std::cout << "Found " << known.size() << " known entries:" << ::std::endl;
+  for (const auto& e : known) {
+    ::std::cout << e.first() << " ==> " << e.second();
+    if (!e.rest().empty()) {
+      ::std::cout << " (" << e.rest() << ")";
+    }
+    ::std::cout << ::std::endl;
   }
 
   return 0;
