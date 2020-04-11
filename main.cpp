@@ -4,6 +4,7 @@
 #include <string>
 #include <regex>
 #include <vector>
+#include <random>
 
 #include <cctype>
 #include <cstring>
@@ -126,6 +127,7 @@ int main()
 //  split_tests();
 
   ::std::string words_file_name{"words.txt"};
+  size_t num_of_word{30};
 
   ::std::ifstream infile{words_file_name};
   if (!infile.good()) {
@@ -164,22 +166,41 @@ int main()
     }
   }
 
-  ::std::cout << "Found " << unknown.size() << " unknown entries:" << ::std::endl;
-  for (const auto& e : unknown) {
-    ::std::cout << e.first() << " ==> " << e.second();
-    if (!e.rest().empty()) {
-      ::std::cout << " (" << e.rest() << ")";
-    }
-    ::std::cout << ::std::endl;
+//  ::std::cout << "Found " << unknown.size() << " unknown entries:" << ::std::endl;
+//  for (const auto& e : unknown) {
+//    ::std::cout << e.first() << " ==> " << e.second();
+//    if (!e.rest().empty()) {
+//      ::std::cout << " (" << e.rest() << ")";
+//    }
+//    ::std::cout << ::std::endl;
+//  }
+
+//  ::std::cout << "Found " << known.size() << " known entries:" << ::std::endl;
+//  for (const auto& e : known) {
+//    ::std::cout << e.first() << " ==> " << e.second();
+//    if (!e.rest().empty()) {
+//      ::std::cout << " (" << e.rest() << ")";
+//    }
+//    ::std::cout << ::std::endl;
+//  }
+
+  ::std::cout << "Found " << unknown.size() << " unknown and " << known.size() << " known entries." << ::std::endl;
+  if (num_of_word > unknown.size()) {
+    num_of_word = unknown.size();
   }
 
-  ::std::cout << "Found " << known.size() << " known entries:" << ::std::endl;
-  for (const auto& e : known) {
-    ::std::cout << e.first() << " ==> " << e.second();
-    if (!e.rest().empty()) {
-      ::std::cout << " (" << e.rest() << ")";
+  std::random_device rd;
+  std::mt19937 gen(rd());
+  std::uniform_int_distribution<size_t> dis;
+  for (size_t i = 0; i < num_of_word; ++i) {
+    const dic_entry& entry{unknown[dis(gen) % unknown.size()]};
+    const list_type& l{entry.first()};
+    if (1 < l.size()) {
+      ::std::cout << l[dis(gen) % l.size()] << ::std::endl;
     }
-    ::std::cout << ::std::endl;
+    else {
+      ::std::cout << l.front() << ::std::endl;
+    }
   }
 
   return 0;
