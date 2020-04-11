@@ -87,7 +87,40 @@ int main()
   ::SetConsoleOutputCP(CP_UTF8);
 #endif
 //  trim_tests();
-  split_tests();
+//  split_tests();
+
+  ::std::string words_file_name{"words.txt"};
+
+  ::std::ifstream infile{words_file_name};
+  if (!infile.good()) {
+    ::std::cout << "Can not open words file \"" << words_file_name << "\"." << ::std::endl;
+    return 1;
+  }
+
+  for( std::string line; getline(infile, line); ) {
+    auto splitted{split(line.c_str(), seps1)};
+    if (2 > splitted.size()) {
+      continue;
+    }
+    if ('#' == splitted[0][0]) {
+      continue;
+    }
+    bool known{false};
+    const ::std::string last{splitted[splitted.size() - 1]};
+    if ('+' == last[last.size() - 1]) {
+      known = true;
+      if ("+" == last) {
+        if (3 > splitted.size()) {
+          continue;
+        }
+        splitted.pop_back();
+      }
+      else {
+        splitted[splitted.size() - 1] = trim(last.substr(0, last.size() - 1));
+      }
+    }
+    ::std::cout << ::std::boolalpha << known << ": " << splitted << ::std::endl;
+  }
 
   return 0;
 }

@@ -12,10 +12,10 @@
 чувствовать, ощущать, слышать - sentir
 предупреждать (кого-то о чём-то) - advertir (a uno de algo)
 
-умирать - morir
-спать - dormir
+умирать - morir +
+спать - dormir +
 
-думать - pensar: yo pienso; tú piensas; él, ella, usted piensa; nosotros pensamos; vosotros pensáis; ellos, ellas, ustedes piensan.
+думать - pensar: yo pienso; tú piensas; él, ella, usted piensa; nosotros pensamos; vosotros pensáis; ellos, ellas, ustedes piensan. +
 попасть (в цель), решить, разгадать - acertar: yo acierto; tú aciertas; él, ella, usted acierta; nosotros acertamos; vosotros acertáis; ellos, ellas, ustedes aciertan.
 пересечь - atravesar: yo atravieso; tú atraviesas; él, ella, usted atraviesa; nosotros atravesamos; vosotros atravesáis; ellos, ellas, ustedes atraviesan.
 греть, согревать - calentar: yo caliento; tú calientas; él, ella, usted calienta; nosotros calentamos; vosotros calentáis; ellos, ellas, ustedes calientan.
@@ -47,7 +47,7 @@
 еда - la comida
 подарок - el regalo
 
-принимать - llevar
+принимать (гостей) - llevar
 
 хотеть - querer: Yo quiero; tú quieres; él, ella, usted quiere; nosotros queremos; vosotros queréis; ellos, ellas, ustedes quieren.
 защищать - defender: Yo defiendo; tú defiendes; él, ella, usted defiende; nosotros defendemos; vosotros defendéis; ellos, ellas, ustedes defienden.
@@ -58,8 +58,8 @@
 возвращаться - volver: Yo vuelvo; tú vuelves; él, ella, usted vuelve; nosotros volvemos; vosotros volvéis; ellos, ellas, ustedes vuelven.
 вереуть, возвращать - devolver: Yo devuelvo; tú devuelves; él, ella, usted devuelve; nosotros devolvemos; vosotros devolvéis; ellos, ellas, ustedes devuelven.
 болеть - doler: Yo duelo; tú dueles; él, ella, usted duele; nosotros dolemos; vosotros doléis; ellos, ellas, ustedes duelen.
-заворачивать - envolver: Yo envuelvo; tú envuelves; él, ella, usted envuelve; nosotros envolvemos; vosotros envolvéis; ellos, ellas, ustedes envuelven.
+заворачивать (покупку) - envolver: Yo envuelvo; tú envuelves; él, ella, usted envuelve; nosotros envolvemos; vosotros envolvéis; ellos, ellas, ustedes envuelven.
 кусать - morder: Yo muerdo; tú muerdes; él, ella, usted muerde; nosotros mordemos; vosotros mordéis; ellos, ellas, ustedes muerden.
-чувствовать запах - oler: Yo huelo; tú hueles; él, ella, ustedes huele; nosotros olemos; vosotros oléis; ellos, ellas, ustedes huelen;
+чувствовать запах - oler: Yo huelo; tú hueles; él, ella, ustedes huele; nosotros olemos; vosotros oléis; ellos, ellas, ustedes huelen.
 мочь - poder: Yo puedo; tú puedes; él, ella, ustedes puede; nosotros podemos; vosotros podéis; ellos, ellas, ustedes pueden.
 
