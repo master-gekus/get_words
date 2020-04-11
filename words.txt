@@ -1,20 +1,3 @@
-провожать, прощаться (с кем-то), уволять (с работы) - despedir
-исправлять, проверять (домашнее задание) – corregir
-мерить, измерять - medir
-просить - pedir
-смеяться над, насмехаться - reír, reírse de
-повторять - repetir
-служить, обслуживать - servir
-одевать - vestir
-согласиться на что-то - consentir en algo
-развлекать - divertir
-предпочитать - preferir
-чувствовать, ощущать, слышать - sentir
-предупреждать (кого-то о чём-то) - advertir (a uno de algo)
-
-умирать - morir
-спать - dormir
-
 думать - pensar: yo pienso; tú piensas; él, ella, usted piensa; nosotros pensamos; vosotros pensáis; ellos, ellas, ustedes piensan. +
 попасть (в цель), решить, разгадать - acertar: yo acierto; tú aciertas; él, ella, usted acierta; nosotros acertamos; vosotros acertáis; ellos, ellas, ustedes aciertan.
 пересечь - atravesar: yo atravieso; tú atraviesas; él, ella, usted atraviesa; nosotros atravesamos; vosotros atravesáis; ellos, ellas, ustedes atraviesan.
@@ -63,3 +46,53 @@
 чувствовать запах - oler: Yo huelo; tú hueles; él, ella, ustedes huele; nosotros olemos; vosotros oléis; ellos, ellas, ustedes huelen.
 мочь - poder: Yo puedo; tú puedes; él, ella, ustedes puede; nosotros podemos; vosotros podéis; ellos, ellas, ustedes pueden.
 
+открывать - abrir: yo abro; tú abres; él, ella, usted abre; nosotros abrimos; vosotros abrís; ellos, ellas, ustedes abren. +
+покрывать, закрыать (чем-нибудь) - cubrir: yo cubro; tú cubres; él, ella, usted cubre; nosotros cubrimos; vosotros cubrís; ellos, ellas, ustedes cubren.
+писать - escribir: yo escribo; tú escribes; él, ella, usted escribe; nosotros escribimos; vosotros escribís; ellos, ellas, ustedes escriben. +
+разделять, делить (что-нибудь) - partir: yo parto; tú partes; él, ella, usted parte; nosotros partimos; vosotros partís; ellos, ellas, ustedes parten.
+получать - recibir: yo recibo; tú recibes; él, ella, usted recibe; nosotros recibimos; vosotros recibís; ellos, ellas, ustedes reciben.
+двигаться (вверх), забираться (на что-то) - subir (en; sobre) algo: yo subo; tú subes; él, ella, usted sube; nosotros subimos; vosotros subís; ellos, ellas, ustedes suben;
+жить - vivir: yo vivo; tù vives; él, ella, usted vive; nosotros vivimos; vosotros vivís; ellos, ellas, ustedes viven; +
+идти - ir: yo voy; tú vas; él, ella, usted va; nosotras vamos; vosotros vais; ellos, ellas, ustedes van.
+слышать - oír: yo oigo; tú oyes; él, ella, usted oye; nosotros oímos; vosotros oís; ellos, ellas, ustedes oyen.
+выходить, выезжать - salir: yo salgo; tú sales; él, ella, usted sale; nosotros salimos; vosotros salís; ellos, ellas, ustedes salen.
+встречаться (с девушкой/парнем), выйти (на прогулку с кем-либо) - salir (con uno): yo salgo; tú sales; él, ella, usted sale; nosotros salimos; vosotros salís; ellos, ellas, ustedes salen.
+пребыть, прийти - venir: yo vengo; tú vienes; él, ella, usted viene; nosotros venimos; vosotros venís; ellos, ellas, ustedes vienen.
+говорить, сказать - decir: yo digo; tú dices; él, ella, usted dice; nosotros decimos; vosotros decís; ellos, ellas, ustedes dicen.
+быть должным - haber: yo he; tú has; él, ella, usted ha; nosotras hemos; vosotros habéis; ellos, ellas, ustedes han.
+
+провожать, прощаться (с кем-то), уволять (с работы) - despedir: yo despido; tú despides; él, ella, usted despide; nosotros despedimos; vosotros despedís; ellos, ellas, ustedes despiden.
+исправлять, проверять (домашнее задание) - corregir: yo corrijo; tú corriges; él, ella, usted corrige; nosotros corregimos; vosotros corregís; ellos, ellas, ustedes corrigen;
+мерить, измерять - medir: yo mido; tú mides; él, ella, usted mide; nosotros medimos; vosotros medís; ellos, ellas, ustedes miden;
+просить - pedir: yo pido; tú pides; él, ella, usted pide; nosotros pedimos; vosotros pedís; ellos, ellas, ustedes piden;
+смеяться (над) - reír (de): yo rio; tú ríes; él, ella, usted ríe; nosotros reímos; vosotros reís; ellos, ellas, ustedes ríen;
+насмехаться - reírse (de)
+повторять - repetir: yo repito; tú repites;  él, ella, usted repite; nosotros repetimos; vosotros repetís; ellos, ellas, ustedes repiten;
+служить, обслуживать - servir: yo sirvo; tú sirves; él, ella, usted sirve; nosotros servimos; vosotros servís; ellos, ellas, ustedes sirven;
+одевать - vestir: yo visto; tú vistes; él, ella, usted viste; nosotros vestimos; vosotros vestís; ellos, ellas, ustedes visten.
+предупреждать (кого-то о чём-то) - advertir (a uno de algo): yo advierto; tú adviertes; él, ella, usted advierte; nosotros advertimos; vosotros advertís; ellos, ellas, ustedes advierten.
+согласиться (на что-то) - consentir (en algo): yo consiento; tú consientes; él, ella, usted consiente; nosotros consentimos; vosotros consentís; ellos, ellas, ustedes consienten;
+развлекать - divertir: yo divierto; tú diviertes; él, ella, usted divierte; nosotros divertimos; vosotros divertís; ellos, ellas, ustedes divierten;
+предпочитать - preferir: yo prefiero; tú refieres; él, ella, usted prefiere; nosotros preferimos; vosotros preferís; ellos, ellas, ustedes prefieren;
+чувствовать, ощущать, слышать - sentir: yo siento; tú sientes; él, ella, usted siente; nosotros sentimos; vosotros sentís; ellos, ellas, ustedes sienten;
+спать - dormir: yo duermo; tú duermes; él, ella, usted duerme; nosotros dormimos; vosotros dormís; ellos, ellas, ustedes duermen.
+умирать - morir: yo muero; tú mueres; él, ella, ustedes muere; nosotros morimos; vosotros morís; ellos, ellas, ustedes mueren.
+
+жара - el calor
+лето - el verano
+кино - la película
+всегда - siempre
+одолжить, дать в долг - prestar
+перо, ручка (для письма) - la pluma
+оставить (кому-либо что-либо) - dejar
+
+# pasar la plancha a algo
+утюг - la plancha
+гладить - planchar
+гладить (кошку) - acariciar
+трогать - tocar
+поддержка, опора - el apoyo
+поддерживать (помогать), придерживать – apoyar
+???? - adquirir
+канцтовары - papelería
+наушник - le auricalar
