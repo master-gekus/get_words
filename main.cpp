@@ -4,6 +4,7 @@
 #include <string>
 #include <regex>
 #include <vector>
+#include <set>
 #include <random>
 
 #include <cctype>
@@ -189,11 +190,16 @@ int main()
     num_of_word = unknown.size();
   }
 
-  std::random_device rd;
-  std::mt19937 gen(rd());
-  std::uniform_int_distribution<size_t> dis;
+  ::std::random_device rd;
+  ::std::mt19937 gen(rd());
+  ::std::uniform_int_distribution<size_t> dis;
+  ::std::set<size_t> used;
   for (size_t i = 0; i < num_of_word; ++i) {
-    const dic_entry& entry{unknown[dis(gen) % unknown.size()]};
+    size_t index{0};
+    do {
+      index = (dis(gen) % unknown.size());
+    } while (!used.insert(index).second);
+    const dic_entry& entry{unknown[index]};
     const list_type& l{entry.first()};
     if (1 < l.size()) {
       ::std::cout << l[dis(gen) % l.size()] << ::std::endl;

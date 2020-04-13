@@ -1,3 +1,6 @@
+# просить - это rogar или pedir?
+# быть должным - él, ella, usted ha или hay
+
 думать - pensar: yo pienso; tú piensas; él, ella, usted piensa; nosotros pensamos; vosotros pensáis; ellos, ellas, ustedes piensan. +
 попасть (в цель), решить, разгадать - acertar: yo acierto; tú aciertas; él, ella, usted acierta; nosotros acertamos; vosotros acertáis; ellos, ellas, ustedes aciertan.
 пересечь - atravesar: yo atravieso; tú atraviesas; él, ella, usted atraviesa; nosotros atravesamos; vosotros atravesáis; ellos, ellas, ustedes atraviesan.
@@ -93,6 +96,6 @@
 трогать - tocar
 поддержка, опора - el apoyo
 поддерживать (помогать), придерживать – apoyar
-???? - adquirir
+#???? - adquirir
 канцтовары - papelería
 наушник - le auricalar
