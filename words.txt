@@ -26,14 +26,14 @@
 лететь - volar: yo vuelo; tú vuelas; él, ella, usted vuela; nosotros volamos; vosotros voláis; ellos, ellas, ustedes vuelan.
 
 
-поместить, поставить - poner: puesto
+поместить, поставить - poner: puesto; pondré
 есть - comer
 еда - la comida +
 подарок - el regalo
 
 принимать (гостей) - llevar
 
-хотеть - querer: Yo quiero; tú quieres; él, ella, usted quiere; nosotros queremos; vosotros queréis; ellos, ellas, ustedes quieren.
+хотеть - querer: querré; Yo quiero; tú quieres; él, ella, usted quiere; nosotros queremos; vosotros queréis; ellos, ellas, ustedes quieren.
 защищать - defender: Yo defiendo; tú defiendes; él, ella, usted defiende; nosotros defendemos; vosotros defendéis; ellos, ellas, ustedes defienden.
 зажигать, включать (электроприбор) - Encender: Yo enciendo; tú enciendes; él, ella, usted enciende; nosotros encendemos; vosotros encendéis; ellos, ellas, ustedes encienden.
 понимать - entender: Yo entiendo; tú entiendes; él, ella, usted enciende; nosotros entendemos; vosotros entendéis; ellos, ellas, ustedes entienden.
@@ -45,22 +45,22 @@
 заворачивать (покупку) - envolver: Yo envuelvo; tú envuelves; él, ella, usted envuelve; nosotros envolvemos; vosotros envolvéis; ellos, ellas, ustedes envuelven.
 кусать - morder: Yo muerdo; tú muerdes; él, ella, usted muerde; nosotros mordemos; vosotros mordéis; ellos, ellas, ustedes muerden.
 чувствовать запах - oler: Yo huelo; tú hueles; él, ella, ustedes huele; nosotros olemos; vosotros oléis; ellos, ellas, ustedes huelen.
-мочь - poder: Yo puedo; tú puedes; él, ella, ustedes puede; nosotros podemos; vosotros podéis; ellos, ellas, ustedes pueden.
+мочь - poder: podré; Yo puedo; tú puedes; él, ella, ustedes puede; nosotros podemos; vosotros podéis; ellos, ellas, ustedes pueden.
 
 открывать - abrir: abierto; yo abro; tú abres; él, ella, usted abre; nosotros abrimos; vosotros abrís; ellos, ellas, ustedes abren. +
 покрывать, закрыать (чем-нибудь) - cubrir: cubierto; yo cubro; tú cubres; él, ella, usted cubre; nosotros cubrimos; vosotros cubrís; ellos, ellas, ustedes cubren.
 писать - escribir: escrito;  yo escribo; tú escribes; él, ella, usted escribe; nosotros escribimos; vosotros escribís; ellos, ellas, ustedes escriben. +
 разделять, делить (что-нибудь) - partir: yo parto; tú partes; él, ella, usted parte; nosotros partimos; vosotros partís; ellos, ellas, ustedes parten.
-получать - recibir: yo recibo; tú recibes; él, ella, usted recibe; nosotros recibimos; vosotros recibís; ellos, ellas, ustedes reciben.
+получать - recibir: yo recibo; tú recibes; él, ella, usted recibe; nosotros recibimos; vosotros recibís; ellos, ellas, ustedes reciben. +
 двигаться (вверх), забираться (на что-то) - subir (en; sobre) algo: yo subo; tú subes; él, ella, usted sube; nosotros subimos; vosotros subís; ellos, ellas, ustedes suben;
 жить - vivir: yo vivo; tù vives; él, ella, usted vive; nosotros vivimos; vosotros vivís; ellos, ellas, ustedes viven; +
 идти - ir: yo voy; tú vas; él, ella, usted va; nosotras vamos; vosotros vais; ellos, ellas, ustedes van.
 слышать - oír: yo oigo; tú oyes; él, ella, usted oye; nosotros oímos; vosotros oís; ellos, ellas, ustedes oyen.
-выходить, выезжать - salir: yo salgo; tú sales; él, ella, usted sale; nosotros salimos; vosotros salís; ellos, ellas, ustedes salen.
-встречаться (с девушкой/парнем), выйти (на прогулку с кем-либо) - salir (con uno): yo salgo; tú sales; él, ella, usted sale; nosotros salimos; vosotros salís; ellos, ellas, ustedes salen.
-пребыть, прийти - venir: yo vengo; tú vienes; él, ella, usted viene; nosotros venimos; vosotros venís; ellos, ellas, ustedes vienen.
-говорить, сказать - decir: dicho; yo digo; tú dices; él, ella, usted dice; nosotros decimos; vosotros decís; ellos, ellas, ustedes dicen.
-быть должным - haber: yo he; tú has; él, ella, usted ha; nosotras hemos; vosotros habéis; ellos, ellas, ustedes han.
+выходить, выезжать - salir: saldré; yo salgo; tú sales; él, ella, usted sale; nosotros salimos; vosotros salís; ellos, ellas, ustedes salen.
+встречаться (с девушкой/парнем), выйти (на прогулку с кем-либо) - salir (con uno): saldré; yo salgo; tú sales; él, ella, usted sale; nosotros salimos; vosotros salís; ellos, ellas, ustedes salen.
+пребыть, прийти - venir: vendré; yo vengo; tú vienes; él, ella, usted viene; nosotros venimos; vosotros venís; ellos, ellas, ustedes vienen.
+говорить, сказать - decir: dicho; diré; yo digo; tú dices; él, ella, usted dice; nosotros decimos; vosotros decís; ellos, ellas, ustedes dicen.
+быть должным - haber: habré; yo he; tú has; él, ella, usted ha; nosotras hemos; vosotros habéis; ellos, ellas, ustedes han.
 
 провожать, прощаться (с кем-то), увольнять (с работы) - despedir: yo despido; tú despides; él, ella, usted despide; nosotros despedimos; vosotros despedís; ellos, ellas, ustedes despiden.
 исправлять, проверять (домашнее задание) - corregir: yo corrijo; tú corriges; él, ella, usted corrige; nosotros corregimos; vosotros corregís; ellos, ellas, ustedes corrigen;
@@ -80,11 +80,10 @@
 умирать - morir: muerto; yo muero; tú mueres; él, ella, ustedes muere; nosotros morimos; vosotros morís; ellos, ellas, ustedes mueren.
 
 жара - el calor
-лето - el verano
-кино - la película
+кино - la película +
 всегда - siempre
 одолжить, дать в долг - prestar
-перо, ручка (для письма) - la pluma
+перо, ручка (для письма) - la pluma +
 оставить (кому-либо что-либо) - dejar
 
 # pasar la plancha a algo
@@ -96,18 +95,19 @@
 поддерживать (помогать), придерживать – apoyar
 #???? - adquirir
 канцтовары - papelería +
-наушник - le auricalar
+наушник - le auricular
 
-горький - amargo
-дружеский, дружественный, дружелюбный - amable
+горький - amargo; amarguísimo
+дружеский, дружественный, дружелюбный - amable; amabilísimo
 кузен, двоюродный брат - primo
 
 видеть, увидеть - ver: visto; yo veo; vosotros veis
-редко - rara +
+редкий - raro +
+редко - rara vez
 раз; случай, очередь; черёд - vez
 идти - ir: yo voy;tú vas; él, ella, usted va; nosotros vamos; vosotros vais; ellos, ellas, ustedes van
 ложь - mentira
-знать; уметь - saber
+знать; уметь - saber; sabré
 иногда - a veces
 часто - a menudo
 тот же самый - mismo
@@ -155,6 +155,73 @@
 брат (сестра) – hermano (hermana)
 пиджак - chaqueta
 
-делать - hacer: hecho; yo hago.
+делать - hacer: hecho; haré; yo hago.
 решать, принимать решение - resolver: resuelto; yo resuelvo; tú resuelves; él resuelve; nosotros resolvemos; vosotros resolvéis; ellos resuelven.
 рвать, разрывать, ломать - romper: roto
+пригород, предместье, (городской) квартал, микрорайон - el barrio
+журнал, проверка, ревизия, обзор, обозрение - la revista
+костюм, одежда, платье - el vestido
+голод, аппетит, желание, жажда (чего-л) - la hambre
+спешка - la prisa
+спешить - tener prisa
+брать - tomar
+магазин (палатка) - la tienda
+жена - la esposa, la mujer
+раскрывать, обнаруживать, делать открытие - descubrir; descubierto
+чемодан - la maleta
+очки - las gafas
+сокровище – el tesoro
+никогда - jamás, nunca
+улыбка - la sonrisa
+улыбаться - sonreír
+муравей - la hormiga
+
+понедельник - lunes
+вторник - martes
+среда - miércoles
+четверг - jueves
+пятница - viernes
+суббота - sábado
+воскресенье (день недели) - domingo
+
+год - el año
+месяц - el mese
+январь - enero
+февраль - febrero
+март - marzo
+апрель - abril
+май - mayo
+июнь - junio
+июль - julio
+август - agosto
+сентябрь - septiembre
+октябрь - octubre
+ноябрь - noviembre
+декабрь - diciembre
+
+зима - la invierno
+весна - la primavera
+лето - el verano
+осень - la otoño
+
+проводить лето - veranear
+море - el mar
+командовать, приказать, послать кому-то что-то, заказать что-то, поручать - mandar
+после; потом; затем - después de
+ужин - cena
+ужинать - cenar
+судно, корабль - el barco
+
+умещаться, быть впору - caber; cabré
+иметь - tener; tendré; yo tengo; tú tienes; él tiene; nosotros tenemos; vosotros tenéis; ellos tienen.
+стоить, иметь цену - valer; valdré; yo valgo
+терпение - la paciencia
+вскоре - pronto
+следующий - siguiente
+предыдущий - anterior, precedente
+снаружи; вовне; во дворе; на улице - afuera
+пальто - abrigo
+тушить (свет), погасить - apogar
+свет - la luz
+закончить - acabar
+гулять, выгуливать - pasear
